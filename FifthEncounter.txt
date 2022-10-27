@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head><title>TFTOSOLTheFifthEncounter</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+#headimage {
+  background: url(5thEncounter.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.active, .btn:hover {
+  background-color: SeaGreen;
+  color: white;
+}
+
+</style>
+</head>
+
+<body>
+<div id="headimage">
+<h1><br><br><br><br><br><br><br><br><br><br><br><br></h1>
+</div>
+
+<h1> #TFTOSOL The Fifth Encounter </h1> <br><br>
+<h3><i>THE PROMENADE</i></h3><br>
+<p>
+Matapos magpraktis tumugtog ay agad nang kumain sila Bao at ang mga ka-bandmates nito. Biglang nasabi ni Bao na parang mas maganda kung hindi na lamang sila tutugtog sa Promenade para ma-enjoy din naman nila ang araw na iyon.<br><br>
+
+"Naku naghahanda ka na naman para sa iniistalk mo." pabirong banggit ng isa nilang kasamahan na ka-close ni Bao. Dahil dito ay agad siyang pinagtripan ng mga ito at pinahiran ng ketchup sa mukha. Agad pumunta ng CR si Bao para maglinis. Hinubad nito ang damit at nang akmang maghihilamos na ng mukha ay may nakita siyang gumugulong na rolyo ng tisyu. Dahil alam niyang kailangan ito nung tao sa loob ay agad niyang binalik sa loob ang rolyo ng tisyu. Hindi pa man nakakapaghilamos ay nakuha ang kaniyang atensyon ng tao sa loob ng banyo na parang takot na takot na nagmamadaling lumabas. Paglingon niya ay nagkagulatan sila. Nanlaki ang mata nito, pagkatapos ay natawa na lamang ng bahagya nang mabitawan ng lalaki ang pantalon nito sa gulat. Nagmadaling iniangat ang pantalon, binutones at sinara ang zipper at agad na lumabas ng banyo ang lalaki. Dahil napansin niya na pamilyar ang lalaki ay agad niya itong hinawakan. Sa hindi inaasahan ay tarantang nagpumiglas ang lalaki at dali-daling lumabas. Napapailing na lamang si Bao at nangingiting naglinis ng mukha.<br><br>
+
+Matapos maglinis ay agad na lumabas si Bao para sundan ang lalaki. Nakita niya itong parang kinakausap ang sarili.<br>
+
+"Sino'ng kinakausap mo dyan ha? Meron ka bang imaginary friend diyan" pabirong bati ni Bao kay Kristoff habang mahinahong binabangga ang katawan nito.<br>
+
+"Ikaw pala 'yan Bao. Nakakahiya, pasensya na sa kanina. Akala ko kasi multo. Bakit ba kasi may dugo yung bibig mo kanina. Nagulat tuloy ako." nakayukong banggit ni Kristoff at hindi makalingon sa kausap dahil sa hiya<br>
+
+"Haha, ketchup yun. Mga siraulo kasing ka-banda ko napagtripan ako kanina."<br>
+"Ikaw ha, nung tumutugtog ako titig na titig ka habang kumakanta ko tapos kanina naman pinagkatitigan mong mabuti yung katawan ko. Konti na lang talaga maniniwala na kong gusto mo ko at hindi lang kita basta fan." biro muli ni Bao kay Kristoff<br>
+
+Buti na lamang at sanay na si Kristoff sa kalokohan ni Bao nung huli nilang pagkikita sa may backstage.<br>
+
+"Bakit pala andito kayo ng mga bandmates mo, sabado ngayon ha? Tutugtog ba ulit kayo sa Promenade next week?"pag-iba ni Kristoff sa usapan<br>
+
+"Ah, oo sana" sagot naman ni Bao<br>
+
+"Bakit sana? You mean hindi na kayo tutuloy? Sayang naman siguradong hahanapin kayo ng mga fans nyo na magsisi-attend" tanong muli ni Kristoff ng may panghihinayang sa sinabi ni Bao<br>
+
+"Fans ba talaga o ikaw ang makakamiss sakin? Haha biro lang. Bale kasi ganito, minsan lang kasi 'yung prom at madalas naman kami naiimbitahan ng iskul. Gusto ko sanang i-enjoy yung araw na 'yun. Mas maganda na mag-invite ng kilalang DJ para party-party tapos may slow music" sabay hawak sa kamay ni Kristoff at hinila ito na kunwari ay magsasayaw ng sweet<br>
+
+"Ganyan, 'di ba hihilahin mo yung magandang babae. Habang nag-uusap kayo ng masinsinan." napansin nitong nakatingin si Kristoff sa magkahawak nilang kamay kaya agad din binitawan ni Bao si Kristoff<br>
+
+"Bakit binitawan mo? Tsaka parang namumula ka." bawing pambubuska ni Kristoff kay Bao<br>
+
+"Anong ako? Ikaw kaya yung ang higpit ng pagkakahawak sa 'kin. Tsaka kitang-kita na nanghihinayang ka na hindi kami tutugtog. Crush mo ko noh, aminin mo na tayong dalawa lang naman dito. Hindi ko pagsasabi." biro ni Bao habang hinuhuli ang tingin ni Kristoff sabay tawa nang bahagya<br>
+
+"Biro lang Kit" agad turan ni Bao bago pa magalit si Kristoff sa kakulitan niya. "Maiba tayo, andiyan pa ba si Nikki? Ipapaalam ko na sa kaniya para magkaroon na kayo ng ibang plano."<br>
+
+"Oo andiyan pa yun. Tara sabay na tayo" bahagyang nagbigay ng ngiti si Kristoff dahil naramdaman nito na nag-alangan si Bao sa pakikipagbiruan sa kaniya.<br><br><br>
+
+                                                                   ---------------------------------------------------------<br><br><br>
+
+Araw ng Promenade. Maagang gumayak si Kristoff dahil kailangan pa niyang sunduin si Shine sa bahay nito. Nakaharap siya sa salamin habang inaayos ang sarili. Suot nito ang puting polo at gray na slacks habang hawak ang naka-hanger pang gray rin na tuxedo. Ayos na ayos ang nakabrush-up na buhok na bumabagay sa maputi niyang kutis. Nakasuot pa ang eyeglass na bagay din sa matangos ngunit medyo bilugan nitong ilong at medyo makapal na kilay na nakapagpadagdag pa sa kagwapuhan nito. Sa unang tingin ay mapagkakamalan mong modelo si Kristoff sa kanyang gayak dahil sa bukod sa matangkad na ito ay mabibighani ka pa sa nakaka-hook nitong ngiti.<br>
+
+Matapos gumayak ay agad na nitong tinawagan si Shine para sabihing susunduin na niya ito. Gamit ang itim nitong sasakyan ay agad nang tumungo si Kristoff sa bahay nila Shine. Pagkadating ni Kristoff sa harapan ng bahay nila Shine ay agad siyang nabighani sa nakita. Ngayon lang niya napansin na maganda pala ang kaniyang kaibigang si Shine. Alam niyang maputi ito at makinis ngunit mas napansin pa ito sa suot niyang puti rin na dress at mas pansinin na ang mukha nito dahil sa magandang pagkaka-ayos ng buhok nito na kinulot. Animo'y isang diwata na nakatayo ang kaniyang nakita. Agad namang lumabas ng sasakyan si Kristoff para sunduin ang kaibigan. Hindi mapigilan ni Kristoff ang mapangiti sa ayos ni Shine.<br>
+
+Pagdating sa eskwelahan ay ipinarada na ni Kristoff ang kaniyang itim na sasakyan. Agad na lumabas para isuot ang kaniyang gray na tuxedo at pagbuksan ng pinto si Shine. Animo'y isang manliligaw ang kinikilos ni Kristoff sa harapan ni Shine. Pagkalabas ni Shine ay agad itong pumusisyon para umabre-siete sa kaibigan ngunit imbis na humawak si Shine sa nakapaabre-sieteng si Kristoff ay agad itong humarap kay Kristoff. Tinanggal ang bowtie at binuksan ang taas na butones ng polo. Pagkatapos ay binutones nito ang gray na tuxedo ni Kristoff.<br>
+
+"Ayan, mas bagay. Masyado kang sosyal tingnan kanina. Baka pag-agawan ka ng mga babae at mawalan pa ko ng ka-partner." nakangiting turan ni Shine sabay umuna ng lakad.<br><br><br>
+
+                                                                   ---------------------------------------------------------<br><br><br>
+
+Matapos ang kainan ay nagpaalam si Shine kay Kristoff na gagamit siya sandali ng CR. Pagkaalis ni Shine ay tumayo rin si Kristoff at naglibot-libot sa eskwelahan. Dahil walang mga kakaibang pangyayari nitong mga nakaraang araw ay nawala sa isip ni Kristoff ang tungkol sa mga kababalaghan at patuloy lamang na naglibot. Tsaka lamang sumagi ito sa isipan niya nang nasa ikalawang palapag na siya ng kanilang building. Bababa na sana siya ngunit sa bandang lugar na madilim ay naagaw ang kaniyang atensyon ng mga matang nanlilisik. Napaatras siya dahil sa takot at muntik nang mahulog sa hagdan kung hindi siya nasapo. Nagtaka siya at biglang nawala ang papalapit na multo. Muli ay naramdaman na naman niya ang mainit na pakiramdam na animo'y para siyang batang pinapatulog ng kaniyang mama. Nang bigla ay itinulak siyang patayo nito.<br>
+
+"Nasiyahan ka sa pagsandal. Akala mo ba magaan ka?" banggit ng pamilyar na boses<br>
+
+Agad namang umayos ng tayo si Kristoff at nilingon ang lalaki.<br>
+
+"Bao! Pasensya na nagulat kasi ako at nawalan ng balanse" paumanhin ni Kristoff<br>
+
+"Bakit may nakita ka na naman bang nakakatakot? Bakit kasi naglilibot ka mag-isa sa mga klasrums alam mo namang may third-eye ka?" medyo may tonong wika ni Bao<br>
+
+Nagtataka man dahil nalaman nitong may third-eye siya ay nagawa na lang ni Kristoff na ikwento kay Bao ang mga kakaibang pangyayari sa kanya habang nakatingin sila sa mga nagsasayawang estudyante sa baba. Nang bigla ay naalala ni Kristoff ang kaibigang si Shine. Agad itong nagpaalam kay Bao.<br>
+
+"Salamat pala ng marami dahil kundi sayo ay baka nahulog na ko sa may hagdan." ngumiti si Kristoff kay Bao at sabay bumaba na para makisama muli at i-enjoy ang prom. Kaagad din namang sumunod si Bao.<br>
+
+"Saan ka ba galing bakit antagal mo? May nangyari ba?" may pag-aalalang tanong ni Shine kay Kristoff<br>
+
+"Naglibot lang sandali para magpababa ng kinain. Wala naman, okay lang ako" agad tumabi ng upo si Kristoff sa kaibigan<br>
+
+Ini-announce na nga ang Promenade King and Queen of the Night at si Kristoff at Shine ang napili. Pagkaraan makuha ang award ay sinimulan nila ang sweet dance.<br>
+
+"Shine naaalala mo nung kinuha mo yung talisman at sinabi kong sumama ka sa prom. Gusto ko pala sabihin na, can you be my..." matagal natigilan si Kristoff sa pagsasalita na animo'y wala sa sarili. Bumalik lamang ito ng may makabunggo sa kaniya.<br>
+
+"Kristoff anong nangyari sa'yo?" pag-aalalang tanong ni Shine<br>
+
+"Hindi ko rin matandaan. Sa palagay mo, may sumanib kaya sa 'kin?" pabulong na turan na lamang ni Kristoff sa kaibigan.<br>
+
+Naaalala ni Kristoff ang dapat sana ay ipagtatapat na gusto na niya ang kaibigang si Shine ngunit dahil sa biglaang pagsanib sa kaniyang katawan muli ng ispiritu ay hindi na niya nagawang ituloy pa ang sasabihin at inaya na lamang ni Kristoff maupo ang kaibigan. Natapos ang kanilang gabi nang nakaupo lang sila habang pinanonood magsayaw ang kanilang mga klasmeyt at skulmeyt.
+ </p><br><br><br>
+
+<div id="myDIV">
+  <a href="https://taim00.github.io/tftosol/"><button class="btn">Home</button></a>
+  <a href="https://taim00.github.io/tftosol-the-first-encounter/"><button class="btn">FirstEncounter</button></a>
+  <a href="https://taim00.github.io/tftosol-the-second-encounter/"><button class="btn">Second Encounter</button></a>
+  <a href="https://taim00.github.io/tftosol-the-third-encounter/"><button class="btn">ThirdEncounter</button></a>
+  <a href="https://taim00.github.io/tftosol-the-fourth-encounter/"><button class="btn">FourthEncounter</button></a>
+  <a href="https://taim00.github.io/tftosol-the-fifth-encounter/"><button class="btn active">FifthEncounter</button></a>
+  <a href="https://taim00.github.io/tftosol-the-sixth-encounter/"><button class="btn">SixthEncounter</button></a>
+  <a href="https://taim00.github.io/tftosol-the-lucky-encounter/"><button class="btn">LuckyEncounter</button></a>
+</div> <br><br>
+
+<b></b><p style="color:OrangeRed; font-family:Verdana; font-size:15px"><b>Instagram: <a href="https://www.instagram.com/time4t.a.i.m/" target="_blank"; style="color:MediumSeaGreen;">@TaimNrokap</a></b>
+<b></b><p style="color:OrangeRed; font-family:Verdana; font-size:15px"><b>Facebook: <a href="https://www.facebook.com/taim.nrokap" target="_blank"; style="color:MediumSeaGreen;">Taim Nrokap</a></b>
+
+<script>
+var header = document.getElementById("myDIV");
+var btns = header.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+  var current = document.getElementsByClassName("active");
+  current[0].className = current[0].className.replace(" active", "");
+  this.className += " active";
+  });
+}
+</script>
+
+  </p></div>
+</div>
+
+</body>
+</html>
